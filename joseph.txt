@@ -1,2 +1,8 @@
 Joseph
+<<<<<<< HEAD
 Favorite language is probably python, it's too versatile
+=======
+Favorite language is probably python, it's too versatile
+
+new feature
+>>>>>>> feature-new
